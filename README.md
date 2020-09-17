@@ -7,9 +7,9 @@
 
 #### Interest
 
-- 👓Computer Vision
-- 🏃‍Pose Estimation
-- ✨Model Optimization
+- 👓 Computer Vision
+- 🏃 ‍Pose Estimation
+- ✨ Model Optimization
 
 <!--
 **JaeHeee/JaeHeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

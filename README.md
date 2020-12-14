@@ -2,7 +2,7 @@
 
 🌱I’m currently learning Deep learning and Computer vision.
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:kjha2142@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jaehee.k.dev@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/c80299b18b934dfbabefab1227105370)](https://www.notion.so/jaeheee/JaeHeeeee-s-Blog-ac18c2ce532c45c29850cabef5a6120b)
 
 #### Interest

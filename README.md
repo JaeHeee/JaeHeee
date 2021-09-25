@@ -1,16 +1,19 @@
-### Hi there I'm Jaehee 👋
+<div align=center>
+  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaehee.k.dev@gmail.com)
+[![CV](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://four-bergamot-cb0.notion.site/Jaehee-Kim-01f024e0dcbd4b8ba8da3d208f423325)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaehee-kim-18a298210/)
+   <h3>Jaehee Kim</h3>
+Software Engineer
+</div>
 
-🌱I’m currently learning Deep learning and Computer vision.
+<br>
+<br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jaehee.k.dev@gmail.com)
-[![Notion](https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/c80299b18b934dfbabefab1227105370)](https://www.notion.so/jaeheee/JaeHeeeee-s-Blog-ac18c2ce532c45c29850cabef5a6120b)
 
-#### Interest
 
-- 👓 Computer Vision
-- 🏃 ‍Pose Estimation
-- ✨ Model Optimization
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeHeee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **JaeHeee/JaeHeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

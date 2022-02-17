@@ -2,6 +2,7 @@
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaehee.k.dev@gmail.com)
 [![CV](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://four-bergamot-cb0.notion.site/Jaehee-Kim-01f024e0dcbd4b8ba8da3d208f423325)
+[![TECH BLOG](https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white)](https://velog.io/@kjha2142)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaehee-kim-18a298210/)
    <h3>Jaehee Kim</h3>
 Software Engineer
